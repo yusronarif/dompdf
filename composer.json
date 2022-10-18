@@ -50,5 +50,16 @@
         "ext-imagick": "Improves image processing performance",
         "ext-gmagick": "Improves image processing performance",
         "ext-zlib": "Needed for pdf stream compression"
-    }
+    },
+    "extra": {
+      "branch-alias": {
+        "dev-master": "^1.2"
+      },
+      "laravel": {
+        "providers": [],
+        "aliases": {}
+      }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
